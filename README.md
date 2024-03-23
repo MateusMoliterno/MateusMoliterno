@@ -3,7 +3,6 @@
 - 🌱 Atualmente estou cursando desenvolvimento de software no senai e com um ano e alguns meses ja aprendi bastante.
 - 💻 Estarei sempre postando meus projetos pessoais aqui para estar sempre mostrando meu desenvolvimento como programador.
 - 📚 Atualmente estou estudando bastante js, html e css, me desafiando cada vez mais, sempre com criatividade.
-- 🧠 O conhecimento não se obtém sozinho; é um processo colaborativo que floresce através do diálogo, da troca de ideias e do compartilhamento de experiências. Espero poder trocar conhecimento com todos!
 
 ---
 <a href="https://github.com/MateusMoliterno/github-readme-stats">
